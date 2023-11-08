@@ -7,7 +7,7 @@ module top_module(
     assign x=w_b2xy;
     assign y=w_b2xy;
     assign z=w_c2z;
-    //init inpu
+    //init input
     assign w_a2w=a;
     assign w_b2xy=b;
     assign w_c2z=c;
